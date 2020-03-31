@@ -27,7 +27,7 @@ This is a version of Snake Game built using
 
 ## Demo
 
-Demo video: https://imgur.com/a/QEyuIeN
+Demo video: https://imgur.com/gallery/sp1lTtw
 
 ![Picture](./snake.jpg)
 
